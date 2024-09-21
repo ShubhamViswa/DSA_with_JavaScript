@@ -18,3 +18,7 @@ function f(i,n){
 
 f(i,n);
 
+
+console.log("Time Complexity of This Code is O(n) Because Every Time the function calling itself again and again until the value of n will be equal to n");
+
+
