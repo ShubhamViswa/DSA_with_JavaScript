@@ -16,7 +16,7 @@ class BinaryTree {
     }
     
 
-DFSPreOrder(){
+DFSPostOrder(){
      let results = [];
      
      function traverse(currentNode){
@@ -44,4 +44,4 @@ tree.root.left.right = new Node(5);
 tree.root.right.left = new Node(6);
 tree.root.right.right = new Node(7);
 
-console.log(tree.DFSPreOrder());
+console.log(tree.DFSPostOrder());
