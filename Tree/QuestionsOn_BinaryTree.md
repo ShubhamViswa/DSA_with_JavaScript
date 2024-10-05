@@ -9,7 +9,7 @@ Some basic questions on **binary trees** that will help you understand their con
    - [Degenerate (or pathological) Tree](https://www.google.com/search?q=Degenerate+%28or+pathological%29+Tree&sca_esv=a7ae0dbaf74d9866&rlz=1C1CHBF_enIN1127IN1127&sxsrf=ADLYWIKlB95Vg4fidLltFrZKZ-77Y3hZnQ%3A1728108434688&ei=ktcAZ4DYKYGhseMP1cP_yAw&ved=0ahUKEwiA6YfLyfaIAxWBUGwGHdXhH8kQ4dUDCA8&uact=5&oq=Degenerate+%28or+pathological%29+Tree&gs_lp=Egxnd3Mtd2l6LXNlcnAiIURlZ2VuZXJhdGUgKG9yIHBhdGhvbG9naWNhbCkgVHJlZTIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIHECMYJxjqAjIUEAAYgAQYkQIYtAIYigUY6gLYAQEyFBAAGIAEGJECGLQCGIoFGOoC2AEBMhQQABiABBiRAhi0AhiKBRjqAtgBATIUEAAYgAQYkQIYtAIYigUY6gLYAQEyFBAAGIAEGJECGLQCGIoFGOoC2AEBMhQQABiABBiRAhi0AhiKBRjqAtgBATIUEAAYgAQY4wQYtAIY6QQY6gLYAQEyFBAAGIAEGOMEGLQCGOkEGOoC2AEBMhQQABiABBjjBBi0AhjpBBjqAtgBATIUEAAYgAQY4wQYtAIY6QQY6gLYAQFI3AxQ9glY9glwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEB-AECmAIBoAIeqAIUmAMeugYGCAEQARgBkgcBMaAHAA&sclient=gws-wiz-serp)
    - Balanced Binary Tree
 3. **What is a binary search tree (BST)? How is it different from a binary tree?**
-4. **What is the height of a binary tree?**
+4. [**What is the height of a binary tree?**](https://chatgpt.com/c/6700d960-d818-800d-8e4a-8e2ad7bd65cd)
 5. **What is the depth of a node in a binary tree?**
 6. **What is the level of a node in a binary tree?**
 7. **What is the root node, leaf node, and internal node in a binary tree?**
