@@ -1,4 +1,12 @@
 Some basic questions on **binary trees** that will help you understand their concepts and operations:
+<details>
+  <summary>Click to toggle details</summary>
+  
+  This is the hidden content that will appear when the toggle is clicked. You can put any Markdown here, including **bold text**, lists, or even code snippets.
+
+  - List item 1
+  - List item 2
+</details>
 
 ### Conceptual Questions:
 1. **What is a binary tree?**
