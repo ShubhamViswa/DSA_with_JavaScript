@@ -1,12 +1,4 @@
 Some basic questions on **binary trees** that will help you understand their concepts and operations:
-<details>
-  <summary>Click to toggle details</summary>
-  
-  This is the hidden content that will appear when the toggle is clicked. You can put any Markdown here, including **bold text**, lists, or even code snippets.
-
-  - List item 1
-  - List item 2
-</details>
 
 ### Conceptual Questions:
 1. **What is a binary tree?**
@@ -18,7 +10,18 @@ Some basic questions on **binary trees** that will help you understand their con
    - Balanced Binary Tree
 3. **What is a binary search tree (BST)? How is it different from a binary tree?**
 4. [**What is the height of a binary tree?**](https://chatgpt.com/c/6700d960-d818-800d-8e4a-8e2ad7bd65cd)
-5. **What is the depth of a node in a binary tree?**
+5. <details>
+      <summary>What is the depth of a node in a binary tree?</summary>
+         The depth of a node in a binary tree is defined as the number of edges from the **root node** to that particular node. In other words, it measures how far a node is from the root.
+
+   ### Key Points:
+    - The **depth of the root node** is 0, as there are no edges above it.
+    - For any other node, the depth is equal to the depth of its parent node plus 1.
+    - The depth increases as you move down the tree from the root.
+
+   The depth gives a measure of how "deep" or far a node is from the top (root) of the tree.
+</details>
+
 6. **What is the level of a node in a binary tree?**
 7. **What is the root node, leaf node, and internal node in a binary tree?**
 8. **How is a binary tree represented in memory?**
