@@ -1,7 +1,7 @@
 
 ## Stacks Questions
-- [Stack using Array]()
-- [Stack using LL]()
+- Stack using Array
+- Stack using LL
 - [Removing stars from string](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/)
 - [Valid parenthesis](https://leetcode.com/problems/valid-parentheses/)
