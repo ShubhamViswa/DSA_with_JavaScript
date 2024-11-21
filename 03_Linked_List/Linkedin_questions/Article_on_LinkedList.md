@@ -3,3 +3,5 @@
 2. [15 LeetCode problems to get better at Linked List](https://medium.com/javarevisited/15-leetcode-problems-to-get-better-at-linked-list-4c5aa8cd4a11)
 3. [Linked List Important Questions With Code And Algorithm](https://medium.com/@singhatul1155/linked-list-important-questions-with-code-and-algorithm-d742541878e4)
 4. [Best Article to Learn Reversal of a Linked List](https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088)
+5. [Article on Check if a Linked List is Palindrome or Not](https://nileshsaini09.medium.com/palindrome-linked-list-207200f68374)
+6. 
