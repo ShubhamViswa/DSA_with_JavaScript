@@ -25,7 +25,7 @@
 };
 
 ```
-  The problem with this apprach is that it has O(n) Time complexity. So, to optimize this we will have to use another apprach which is *Approach 2*.
+  The problem with this apprach is that it has O(n + n/2) Time complexity. This approach is taking two pass meaning we have to traverse twice for on the given Linked List.  So, to optimize this we will have to use another apprach which is *Approach 2*.
 
 ### Approach 2 --> Using slow and Fast Pointer (Tortoise and Hare algorithm)
 
