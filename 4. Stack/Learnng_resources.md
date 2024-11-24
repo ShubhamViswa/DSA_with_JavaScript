@@ -4,3 +4,6 @@
 
 #### Videos on Stack
 1. [Intro to Stack ~freecodecamp](https://youtu.be/k1IaYPGel3s?si=Sx6ISDpO1KvIDWjH)
+
+#### Links 
+1. [visit..](https://leetcode.com/discuss/study-guide/2929000/Best-Stack-Questions-Beginners-to-Intermediate-or-739.-Daily-Temperatures-Similar-Questions)
