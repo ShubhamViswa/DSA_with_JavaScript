@@ -25,6 +25,8 @@ function first_last_occurance(arr, target){
 
   //  finding the last occurence
 
+  lo = 0;
+  hi = arr.length - 1;
   while(lo<=hi){
     let mid = Math.floor((lo+hi)/2);
     if(arr[mid] === target){
@@ -40,3 +42,8 @@ function first_last_occurance(arr, target){
   return {first , last};
   
 }
+
+let x = first_last_occurance(arr, 8)
+console.log(x);
+
+
