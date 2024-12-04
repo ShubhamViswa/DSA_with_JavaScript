@@ -2,11 +2,13 @@
 // Array = [18, 12, -7, 3, 14, 28];
 // Search for 3 in Range of [1,4];
 
-function  srchInRng(array, target){
+//  implement linear search
+
+function  srchInRng(array, target, strtidx, endidx){
     if(array.length === 0){
         return -1;
     }
-    for(let index = 1; index <= array[4]; index++){
+    for(let index = strtidx; index <= array[endidx]; index++){
         let element = array[index]
         if(element === target){
             return index+"th index"
@@ -18,5 +20,5 @@ function  srchInRng(array, target){
 let array = [18, 12, -7, 3, 14, 28];
 let target = 3;
 
-let call = srchInRng(array, target);
+let call = srchInRng(array, target,1,4);
 console.log(call);
