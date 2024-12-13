@@ -1,7 +1,7 @@
 ## Arrays and Two Pointers
 1. [Two Sum](https://leetcode.com/problems/two-sum/) ✅
 2. [Reverse A String](https://leetcode.com/problems/reverse-string/) ✅
-3. [Two Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 
+3. [Two Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✅
 4. [Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) ✅
 5. [3 Sum](https://leetcode.com/problems/3sum/)
 6. [Sort Colors - Try with 2 Pointers](https://leetcode.com/problems/sort-colors/)
